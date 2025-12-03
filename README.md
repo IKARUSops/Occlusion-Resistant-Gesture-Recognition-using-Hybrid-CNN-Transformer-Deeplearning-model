@@ -1,0 +1,1 @@
+[![Google Slides Presentation](https://via.placeholder.com/800x450.png?text=Open+Google+Slides+Presentation)](https://docs.google.com/presentation/d/e/2PACX-1vT5rdrhw3PFDHXCljGiVbmekX_i1tncomWZUjgxfWzEXPnf8B9yz5zU7kvzYOfxpDWIf74yyjtta3TO/pub?start=false&loop=false&delayms=3000)
